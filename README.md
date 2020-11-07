@@ -1,5 +1,3 @@
-### Hello World 👋
-
 <!--
 **hhhminme/hhhminme** is a ✨ _special_ ✨ reposithttps://github.com/hhhminme/hhhminme/blob/main/README.mdory because its `README.md` (this file) appears on your GitHub profile.
 
