@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --><a><h2>🌱 I’m currently learning java and data structure...</h2></a>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hhhminme&show_icons=true&theme=dracula&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hhhminme&show_icons=true&theme=dracula&count_private=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhhminme&layout=compact&theme=dracula&count_private=true)
 
