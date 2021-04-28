@@ -12,7 +12,7 @@ Web Service 와 Platform Business에 많은 관심을 가지고 있습니다.
 |네이버 부스트코스 서포터즈 2기 수료|2020.01 ~ 2021.03|JavaScript, Blog Posting, Content Announcement  |
 |한국산업기술대학교 정보알리미 카카오 챗봇 "산돌이" 서비스 운영|2021.04 ~ |FE, UI/UX Design, Management Assistance, Data Analysis|
 
-## 블로그 & 기술 스택
+## 기술 스택
 <img src = "https://shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"> <img src = "https://shields.io/badge/C++-00599C?style=flat-square&logo=c&logoColor=white"> <img src = "https://shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src = "https://shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src = "https://shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src = "https://shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src = "https://shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src = "https://shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"> <img src = "https://shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black"> <img src = "https://shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src = "https://shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src = "https://shields.io/badge/Kakao i builder-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black">  <img src = "https://shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon&logoColor=white"> <img src = "https://shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
 
 
