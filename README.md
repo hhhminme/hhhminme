@@ -1,4 +1,4 @@
-## 반가워요! 허브입니다.👋  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhhminme&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 반가워요! 허브입니다.👋 url=https%3A%2F%2Fgithub.com%2Fhhhminme&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 **조금은 엉뚱하지만 멋진 개발자 허브입니다.** 왕성한 호기심과 상상력을 가지고 있고 이를 위한 끈기를 키우기 위해 노력합니다. Web Service 와 Platform Business에 많은 관심을 가지고 있습니다.
 
 ## 활동 이력
