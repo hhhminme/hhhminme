@@ -10,6 +10,7 @@
 |네이버 부스트코스 코칭 스터디 1기 수료|2020.12~2021.03|N Tech Service, Web UI, HTML5 & CSS3, Web Accessibility, Code Review|
 |네이버 부스트코스 서포터즈 2기 수료|2020.01~2021.03|JavaScript, Blog Posting, Content Announcement  |
 |한국산업기술대학교 정보알리미 카카오 챗봇 "산돌이" 서비스 운영|2021.04~ |FE, UI/UX Design, Management Assistance|
+|컴공 SW pre-캡스톤디자인 콘테스트 은상 수상|2021.07~2021.10|Android, Kotlin, Poject Management, Agile software development |
 
 ## 블로그 & 기술 스택
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://modernalchemist.tistory.com/) 
