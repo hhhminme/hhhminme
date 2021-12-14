@@ -6,8 +6,6 @@
 
 |활동|기간|활동내용|
 |---|---|---|
-|한국산업기술대학교 재학|2017.03 |컴퓨터공학과 전공|
-|허브의 개발 일지 블로그 운영|2020.03 |Technology Blog|
 |"비전공자를 위한 IT실무지식" 재능기부 비교과 프로그램 운영|2020.09~2021.12|Software Engineering, Communication Tools, Network, BM, UX, Data Driven |
 |네이버 부스트코스 코칭 스터디 1기 수료|2020.12~2021.03|N Tech Service, Web UI, HTML5 & CSS3, Web Accessibility, Code Review|
 |네이버 부스트코스 서포터즈 3기 수료|2021.01~2021.03|JavaScript, Blog Posting, Content Announcement  |
