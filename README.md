@@ -1,5 +1,6 @@
 ## I'm Heo Min, a front-end developer 👻
-I have a strong curiosity and imagination and strive to develop persistence for it. I am very interested in Web Service and Platform Business.
+- I have a strong curiosity and imagination and strive to develop persistence for it. 
+- I am very interested in Web Service and Platform Business.
 
 <!-- ## 활동 및 수상 이력
 링크를 클릭하시면 관련 레포지토리로 이동합니다 -->
