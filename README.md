@@ -17,10 +17,13 @@
 [![Gmail Badge](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huhmin0409@naver.com)](mailto:huhmin0409@naver.com)
 
 ### FRONTEND
-<img src = "https://shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src = "https://shields.io/badge/React-87CEEB?style=flat-square&logo=react&logoColor=black"> <img src = "https://shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src = "https://shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <br>
+<img src = "https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat"> <img src = "https://shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"><img src = "https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat"> 
+
+
+<br>
 
 ### EDITOR & TOOLS
-<img src = "https://shields.io/badge/Kakao i builder-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black"> <img src = "https://shields.io/badge/VSC-0f4ca1?style=flat-square&logo=visualstudio&logoColor=white"> <img src = "https://shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon&logoColor=white"> <img src = "https://shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"> <img src = "https://shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+<img src = "https://shields.io/badge/Kakao i builder-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black"> <img src = "https://shields.io/badge/VSC-0f4ca1?style=flat-square&logo=visualstudio&logoColor=white"> <img src = "https://shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon&logoColor=white"> <img src = "https://shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"> <img src = "https://shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hhhminme&show_icons=true&theme=dracula&count_private=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhhminme&layout=compact&theme=dracula&count_private=true) -->
 
