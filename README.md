@@ -1,7 +1,7 @@
 ## I'm Heo Min, a front-end developer 👻
 - I have a strong curiosity and imagination and strive to develop persistence for it. 
 - I am very interested in Web Service and Platform Business.
-
+- [RESUME](https://adhesive-carpet-0f4.notion.site/437e26c15b704e1182b4caac91543688)
 <!-- ## 활동 및 수상 이력
 링크를 클릭하시면 관련 레포지토리로 이동합니다 -->
 
@@ -16,6 +16,7 @@
 ## My Tech stacks
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://modernalchemist.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huhmin0409@naver.com)](mailto:huhmin0409@naver.com)
+
 
 ### FRONTEND
 <img src = "https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat"> <img src = "https://shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"><img src = "https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat"> 
