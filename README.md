@@ -14,7 +14,7 @@
 |<a href="https://github.com/KPUCE2021SP/hummingbird">한국산업기술대학교 SW pre-캡스톤디자인 콘테스트 은상 수상</a>|2021.07~2021.10|Android, Kotlin, Poject Management, Agile software development | -->
 
 ## My Tech stacks
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://modernalchemist.tistory.com/) 
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://velog.io/@hhhminme) 
 [![Gmail Badge](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huhmin0409@naver.com)](mailto:huhmin0409@naver.com)
 
 
