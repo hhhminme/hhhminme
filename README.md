@@ -1,6 +1,4 @@
-## I'm Heo Min, a front-end developer 👻
-- I have a strong curiosity and imagination and strive to develop persistence for it. 
-- I am very interested in Web Service and Platform Business.
+## 안녕하세요! 상식이 통하는 개발자 "허민"입니다. 👋
 - [RESUME(KOREA)](https://adhesive-carpet-0f4.notion.site/437e26c15b704e1182b4caac91543688)
 <!-- ## 활동 및 수상 이력
 링크를 클릭하시면 관련 레포지토리로 이동합니다 -->
