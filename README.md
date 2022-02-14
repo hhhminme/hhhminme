@@ -1,4 +1,4 @@
-## 안녕하세요! 상식이 통하는 개발자 "허민"입니다.
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 안녕하세요! 상식이 통하는 개발자 "허민"입니다. 
 - [RESUME(KOREA)](https://adhesive-carpet-0f4.notion.site/437e26c15b704e1182b4caac91543688)
 <!-- ## 활동 및 수상 이력
 링크를 클릭하시면 관련 레포지토리로 이동합니다 -->
@@ -14,7 +14,7 @@
 ## 💪 Skills
 
 ### Frameworks & Languages
-<img src = "https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat"> 
+<img src = "https://img.shields.io/badge/-JavaScript-F7DF1E?logo=Javascript&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat"> 
 
 ### Tools
 <img src = "https://img.shields.io/badge/-Kakao i builder-FFCD00?logo=kakaotalk&logoColor=black&style=flat"> <img src = "https://img.shields.io/badge/-VS Code-0f4ca1?logo=visualstudio&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Google Cloud Platform-4285F4?logo=GoogleCloud&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat"> 
