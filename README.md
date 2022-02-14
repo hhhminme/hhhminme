@@ -23,6 +23,8 @@
 </div>
 </details>
 
+와인과 요리를 매우매우 좋아합니다🍷 🍳 ❤
+
 [RESUME(KOREA)](https://adhesive-carpet-0f4.notion.site/437e26c15b704e1182b4caac91543688)
 
 
