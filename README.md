@@ -27,6 +27,6 @@
 <!-- <img src = "https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat">  -->
 
 ### Tools
-<img src = "https://img.shields.io/badge/-Kakao i builder-FFCD00?logo=kakaotalk&logoColor=black&style=flat"> <img src = "https://img.shields.io/badge/-VS Code-0f4ca1?logo=visualstudio&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Google Cloud Platform-4285F4?logo=GoogleCloud&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat"> 
+<img src = "https://img.shields.io/badge/-Kakao i builder-FFCD00?logo=kakaotalk&logoColor=black&style=flat"> <img src = "https://img.shields.io/badge/-VS Code-0f4ca1?logo=visualstudio&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Google Cloud Platform-4285F4?logo=GoogleCloud&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-AWS-232F3E?logo=AmazonAWS&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat"> 
 
 
