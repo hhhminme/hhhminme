@@ -5,8 +5,7 @@
 - I try to create positive energy.
 - I am trying to design components that are easy to develop with a considerate UI to solve problems in real life.
 
-<!-- [RESUME(KOREA)](https://adhesive-carpet-0f4.notion.site/437e26c15b704e1182b4caac91543688)
- -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hhhminme)](https://github.com/hhhminme/velog-readme-stats)
 
 <!-- ## 활동 및 수상 이력
 링크를 클릭하시면 관련 레포지토리로 이동합니다 -->
