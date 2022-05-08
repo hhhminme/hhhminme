@@ -5,7 +5,7 @@
 - I try to create positive energy.
 - I am trying to design components that are easy to develop with a considerate UI to solve problems in real life.
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hhhminme)](https://github.com/hhhminme/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hhhminme)](https://velog.io/@hhhminme) 
 
 <!-- ## 활동 및 수상 이력
 링크를 클릭하시면 관련 레포지토리로 이동합니다 -->
