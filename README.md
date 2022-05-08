@@ -21,12 +21,19 @@
 
 ## 💪 Skills
 
-### Frameworks & Languages
-<img src = "https://img.shields.io/badge/-JavaScript-F7DF1E?logo=Javascript&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat"> 
+### Current Learning Skills
+<img src = "https://img.shields.io/badge/-React Native-61DAFB?logo=react&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-React Query-FF4154?logo=ReactQuery&logoColor=white&style=flat"/>
 
-<!-- <img src = "https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat">  -->
+### Languages 
+<img src = "https://img.shields.io/badge/-JavaScript-F7DF1E?logo=Javascript&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat"> 
+### Frameworks
+ <img src = "https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-React Native-61DAFB?logo=react&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-RTK-764ABC?logo=Redux&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-Recoil-000000?logo=&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/styled--components-DB7093?&logo=styled-components&logoColor=white"/> <img src = "https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Babel-F9DC3E?logo=Babel&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&logoColor=white&style=flat"> 
+ 
+### Infra
+<img src = "https://img.shields.io/badge/-AWS-232F3E?logo=AmazonAWS&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Google Cloud Platform-4285F4?logo=GoogleCloud&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat"/> 
+
 
 ### Tools
-<img src = "https://img.shields.io/badge/-Kakao i builder-FFCD00?logo=kakaotalk&logoColor=black&style=flat"> <img src = "https://img.shields.io/badge/-VS Code-0f4ca1?logo=visualstudio&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Google Cloud Platform-4285F4?logo=GoogleCloud&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-AWS-232F3E?logo=AmazonAWS&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat"> 
+<img src = "https://img.shields.io/badge/-Kakao i builder-FFCD00?logo=kakaotalk&logoColor=black&style=flat"/> <img src = "https://img.shields.io/badge/-VS Code-0f4ca1?logo=visualstudio&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=flat"/><img src = "https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Zeplin-FF9E0F?style=flat&logo=Z&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/> 
 
 
