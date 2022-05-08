@@ -1,9 +1,9 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 안녕하세요! 상식이 통하는 개발자 "허민"입니다. 
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello! I'm Heo Min, a developer with common sense.
 
-“**실력은 내가 인정받기 위함이고 배려는 내가 살아가기 위함이다.”**
+“**Skills are for me to be recognized, but consideration is for me to live.”**
 
-- 배려와 공유의 가치를 알고 있기에 조직 내에서 긍정적인 에너지를 만들어내기 위해 노력합니다.
-- 실생활에 있는 문제점을 해결하기 위한 배려심 있는 UI 와 함께 개발하기 편한 컴포넌트 설계를 하려고 노력하고 있습니다.
+- I try to create positive energy.
+- I am trying to design components that are easy to develop with a considerate UI to solve problems in real life.
 
 <!-- [RESUME(KOREA)](https://adhesive-carpet-0f4.notion.site/437e26c15b704e1182b4caac91543688)
  -->
@@ -27,13 +27,13 @@
 ### Languages 
 <img src = "https://img.shields.io/badge/-JavaScript-F7DF1E?logo=Javascript&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat"> 
 ### Frameworks
- <img src = "https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-React Native-61DAFB?logo=react&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-RTK-764ABC?logo=Redux&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-Recoil-000000?logo=&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/styled--components-DB7093?&logo=styled-components&logoColor=white"/> <img src = "https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Babel-F9DC3E?logo=Babel&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&logoColor=white&style=flat"> 
+ <img src = "https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-RTK-764ABC?logo=Redux&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-Recoil-000000?logo=&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/styled--components-DB7093?&logo=styled-components&logoColor=white"/> <img src = "https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Babel-F9DC3E?logo=Babel&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&logoColor=white&style=flat"> 
  
 ### Infra
 <img src = "https://img.shields.io/badge/-AWS-232F3E?logo=AmazonAWS&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Google Cloud Platform-4285F4?logo=GoogleCloud&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat"/> 
 
 
 ### Tools
-<img src = "https://img.shields.io/badge/-Kakao i builder-FFCD00?logo=kakaotalk&logoColor=black&style=flat"/> <img src = "https://img.shields.io/badge/-VS Code-0f4ca1?logo=visualstudio&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=flat"/><img src = "https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Zeplin-FF9E0F?style=flat&logo=Z&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/> 
+<img src = "https://img.shields.io/badge/-GitLab-FC6D26?logo=GitLab&logoColor=black&style=flat"/> <img src = "https://img.shields.io/badge/-Kakao i builder-FFCD00?logo=kakaotalk&logoColor=black&style=flat"/> <img src = "https://img.shields.io/badge/-Git Kraken-179287?logo=GitKraken&logoColor=black&style=flat"/> <img src = "https://img.shields.io/badge/-VS Code-0f4ca1?logo=visualstudio&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=flat"/><img src = "https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Zeplin-FF9E0F?style=flat&logo=Z&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/> 
 
 
