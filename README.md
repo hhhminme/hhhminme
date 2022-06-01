@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> [Hello! I'm Heo Min, a developer with common sense.](https://glory-act-843.notion.site/295b67adea264e71b881b1b7e59e5d5a)
+## [Hello! I'm Heo Min, a developer with common sense.](https://glory-act-843.notion.site/295b67adea264e71b881b1b7e59e5d5a)
 
 “**Skills are for me to be recognized, but consideration is for me to live.”**
 
