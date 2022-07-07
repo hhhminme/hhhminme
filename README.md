@@ -1,6 +1,4 @@
-## [Hello! I'm Heo Min, a developer with common sense.](https://glory-act-843.notion.site/295b67adea264e71b881b1b7e59e5d5a)
-
-“**Skills are for me to be recognized, but consideration is for me to live.”**
+## “Skills are for me to be recognized, but consideration is for me to live.”
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hhhminme)](https://velog.io/@hhhminme) 
 
