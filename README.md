@@ -1,5 +1,5 @@
 ## “Skills are for me to be recognized, but consideration is for me to live.”
-
+### 실력은 인정받기 위함이고, 배려는 살아가기 위함이다.
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hhhminme)](https://velog.io/@hhhminme) 
 
 <!-- ## 활동 및 수상 이력
