@@ -16,7 +16,7 @@
 ## 💪 Skills
 
 ### Current Learning Skills
-<img src = "https://img.shields.io/badge/-React Native-61DAFB?logo=react&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-React Query-FF4154?logo=ReactQuery&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat"/>  <img src = "https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-Testing Library-E33332?logo=testinglibrary&logoColor=white&style=flat"/>
+<img src = "https://img.shields.io/badge/-React Native-61DAFB?logo=react&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-React Query-FF4154?logo=ReactQuery&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white&style=flat"/>
 
 ### Languages 
 <img src = "https://img.shields.io/badge/-JavaScript-F7DF1E?logo=Javascript&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat"/> <img src = "https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat"> 
