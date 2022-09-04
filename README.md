@@ -16,6 +16,7 @@
 - 🙋‍♂️ (2020.12 ~ 2021.03) [Naver Boostcourse](https://www.boostcourse.org/?validMobileApp=true) Web UI Mentee and supporter
 - 🎓 (2017.03 ~ ) [TUKorea](https://www.boostcourse.org/?validMobileApp=true) Attended Department of Computer Engineering
 
+## Blog
 
 ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hhhminme)
 
