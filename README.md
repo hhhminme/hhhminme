@@ -1,5 +1,5 @@
 ## “Skills are for me to be recognized, but consideration is for me to live.”
-<a href="https://www.linkedin.com/in/min-heo-a2463b154/" target="_blank">
+<a href="https://www.linkedin.com/in/min-heo-a2463b154/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
 <a/>
 
