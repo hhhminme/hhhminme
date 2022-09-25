@@ -1,4 +1,5 @@
-## “Skills are for me to be recognized, but consideration is for me to live.”
+## “Skills are for me to be recognized, but consideration is for me to live.” 
+### 실력은 인정받기 위함이고 배려는 살아가기 위함이다. 
 <a href="https://www.linkedin.com/in/min-heo-a2463b154/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
 <a/>
