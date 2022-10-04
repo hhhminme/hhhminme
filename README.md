@@ -17,7 +17,7 @@
 - 🧑‍💻 (2022.09 ~ 2022.12) [Collabee](https://www.collabee.co) React Native Developer Intern
 - 🧑‍💻 (2022.04 ~ ) [MakeUs](https://www.makeus.in/cmc) 10th React Native Developer & 11th Web Leader
 - 🙋‍♂️ (2020.12 ~ 2021.03) [Naver Boostcourse](https://www.boostcourse.org/?validMobileApp=true) Web UI Mentee and supporter
-- 🎓 (2017.03 ~ ) [TUKorea](https://www.boostcourse.org/?validMobileApp=true) Attended Department of Computer Engineering
+- 🎓 (2017.03 ~ ) [TUKorea](https://www.tukorea.ac.kr) Attended Department of Computer Engineering
 
 ## Blog
 
