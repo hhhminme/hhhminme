@@ -20,6 +20,9 @@
 - 🎓 (2017.03 ~ ) [TUKorea](https://www.tukorea.ac.kr) Attended Department of Computer Engineering
 
 ## Blog
+<a href="https://velog.io/@hhhminme">
+<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+<a/>
 
 ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hhhminme)
 
