@@ -13,12 +13,6 @@
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="typescript" width="48px" height="48px" />
 </div>
 
-## Timeline
-- 🧑‍💻 (2022.09 ~ 2022.12) [Collabee](https://www.collabee.co) Developer Intern
-- 🧑‍💻 (2022.04 ~ 2022.11) [MakeUs](https://www.makeus.in/cmc) 10th React Native Developer & 11th Web Leader
-- 🙋‍♂️ (2020.12 ~ 2021.03) [Naver Boostcourse](https://www.boostcourse.org/?validMobileApp=true) Web UI Mentee and supporter
-- 🎓 (2017.03 ~ ) [TUKorea](https://www.tukorea.ac.kr) Attended Department of Computer Engineering
-
 ## Blog
 <a href="https://velog.io/@hhhminme">
 <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
