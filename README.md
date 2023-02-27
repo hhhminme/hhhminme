@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="typescript" width="48px" height="48px" />
 </div>
 
-## Contribute
+## Contribution
 **toss/slash [repo](https://github.com/toss/slash)**
 
 ## Blog
