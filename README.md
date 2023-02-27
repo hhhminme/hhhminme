@@ -13,6 +13,9 @@
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="typescript" width="48px" height="48px" />
 </div>
 
+## Contribute
+- Toss/slash
+
 ## Blog
 <a href="https://velog.io/@hhhminme">
 <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
