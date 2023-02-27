@@ -14,7 +14,7 @@
 </div>
 
 ## Contribute
-- Toss/slash
+**toss/slash [repo](https://github.com/toss/slash)**
 
 ## Blog
 <a href="https://velog.io/@hhhminme">
