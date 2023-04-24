@@ -13,4 +13,4 @@
 </div>
 
 ## Contribution
-**toss/slash [repo](https://github.com/toss/slash)**
+- **[toss/slash](https://github.com/toss/slash)**
