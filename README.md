@@ -1,4 +1,4 @@
-## "Skills are meant to be recognized, but consideration is essential for living."
+## Skills are meant to be recognized, but consideration is essential for living.
 ### 실력은 인정받기 위함이고 배려는 살아가기 위함이다. 
 
 ## Technologies
