@@ -14,4 +14,3 @@
 
 ## Contribution
 - **[toss/slash](https://github.com/toss/slash)**
-- **[pnpm](https://pnpm.io/ko/)** translation of official documents
