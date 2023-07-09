@@ -16,4 +16,4 @@
 - **[toss/slash](https://github.com/toss/slash)**
 
 ## Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hhhminme)](https://github.com/hhhminme/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hhhminme)](https://velog.io/@hhhminme)
